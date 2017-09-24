@@ -1,0 +1,20 @@
+{
+  "name": "ticketbooking",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Vivek - Vipin <vivekk252@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vkyadav998/ticketbooking",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
