@@ -1,0 +1,6 @@
+<ul class="list-group">
+  <li class="list-group-item" *ngFor="let ticket of tickets">
+    <span class="badge">{{ticket.charge}}</span>
+    {{ticket.source}} To {{ticket.destination}}
+  </li>
+</ul>
